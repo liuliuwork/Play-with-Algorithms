@@ -2,11 +2,9 @@
 
 大家好， 欢迎大家来到我在[慕课网](http://www.imooc.com/)上的实战课程[《算法与数据结构精解》](http://coding.imooc.com/class/71.html)的官方代码仓。这个代码仓将不仅仅包含课程的所有源代码，还将发布课程的更新相关内容，勘误信息以及计划的更多可以丰富课程的内容，如更多分享，多多练习，等等等等。课程源码暂时只提供C++和Java两种语言的源代码。关于更多语言的支持，今后有时间，我会慢慢更新这个代码仓（不过预计会是蜗牛速了>_<）。
 
-在这里感谢 [@ShiveryMoon](https://github.com/ShiveryMoon) 同学，制作了这个课程代码的完整**Python版本**，有需要的同学请围观：[https://github.com/ShiveryMoon/Imooc-Algorithm-PythonEdition](https://github.com/ShiveryMoon/Imooc-Algorithm-PythonEdition)
-
 大家可以下载、运行、测试、修改。如果你发现了任何bug，或者对课程中的任何内容有意见或建议，欢迎和我联系：）
 
-**个人网站**：[liuyubobobo.com](http://liuyubobobo.com)
+**个人网站**：[liuyubobobo.com](http://liuyubobobo.com) [废弃重整中...]
 
 **电子邮件**：[liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
@@ -18,7 +16,7 @@
 
 **个人公众号：是不是很酷**：）
 
-![QRCode](src/qrcode.jpg)
+![QRCode](src/qrcode.png)
 
 ## 课程更新信息
 
@@ -51,12 +49,11 @@
 
 * 感谢学习课程的大佬 [**@ShiveryMoon**](https://github.com/ShiveryMoon) 同学使用Python语言实现了课程的所有代码，甚至还有不少拓展和补充。有使用Python语言的同学，可以去大佬的代码仓观望。传送门：[https://github.com/ShiveryMoon/Imooc-Algorithm-PythonEdition](https://github.com/ShiveryMoon/Imooc-Algorithm-PythonEdition)
 
-* 感谢学习课程的大佬 [@摘星fy](https://github.com/kingAnyWHere)基于Canvas实现的堆和任意二分搜索树的可视化。有兴趣的同学可以去大佬的代码仓围观。
-    * 堆的可视化：[https://github.com/kingAnyWHere/MaxHeap](https://github.com/kingAnyWHere/MaxHeap)
-    * 任意二分搜索树的可视化 ：[https://github.com/kingAnyWHere/canvas-binary-search](https://github.com/kingAnyWHere/canvas-binary-search) 
-    * 以下为截图：）
+* 感谢学习课程的大佬 [**@田小号**](https://github.com/tianxiaohao1) 基于Canvas实现的诸多算法的可视化。有兴趣的同学可以去大佬的代码仓围观。同时，[**@田小号**](https://github.com/tianxiaohao1) 还基于Canvas实现了我的《玩转数据结构》和《看得见的算法》两门课程中诸多算法和数据结构的可视化内容，大家不要错过！
+
+    代码仓传送门：[**https://github.com/tianxiaohao1/codding.cn/tree/master/algo**](https://github.com/tianxiaohao1/codding.cn/tree/master/algo)
     
-![BST-Visualization](src/demo.png)
+![sort-vis](src/fy.jpg)
 
 ## 课程源码目录 
 
@@ -225,7 +222,7 @@
 | 9-5 实现Bellman-Ford算法 | [C++源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/09-Shortest-Path/Course%20Code%20(C%2B%2B)/05-Implementation-of-Bellman-Ford) | [Java源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/09-Shortest-Path/Course%20Code%20(Java)/05-Implementation-of-Bellman-Ford) |
 | 9-6 更多和最短路径相关的思考 | [无代码] | |
 | 本章课程最终代码 | [C++源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/09-Shortest-Path/Course%20Code%20(C%2B%2B)/Chapter-09-Completed-Code) | [Java源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/09-Shortest-Path/Course%20Code%20(Java)/Chapter-09-Completed-Code) |
-| 补充1 Dijkstra算法的可视化 (Java) | [整理中] | [敬请期待] |
+| 补充1 基于最小堆的 Dijkstra 实现 | [C++源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/09-Shortest-Path/Course%20Code%20(C%2B%2B)/Optional-1-Dijkstra-based-on-Min-Heap/) | [敬请期待] |
 | 补充2 SPFA算法 | [整理中] | [敬请期待] |
 | 补充3 有向无环图（DAG）的拓扑排序 | [整理中] | [敬请期待] |
 | 补充4 Floyed算法 | [整理中] | [敬请期待] |
